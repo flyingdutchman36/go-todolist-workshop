@@ -1,6 +1,6 @@
 # go-todolist-workshop
 create go to do list workshop (RESTful API + GORM)
-ศึกษาและทำตามจาก Youtube https://www.youtube.com/playlist?list=PLjPfp4Ph3gBrTQNdWUi8Oaw57ghZinS3g
+ศึกษาและทำตามจาก Youtube https://www.youtube.com/playlist?list=PLjPfp4Ph3gBrTQNdWUi8Oaw57ghZinS3g  
 และ ฝึก deploy บน heroku 
 https://go-todolist-workshop.herokuapp.com/todo-lists
 
